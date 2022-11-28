@@ -1,0 +1,27 @@
+{
+    "acceptInsecureCerts":false,
+    "browserName":"chrome",
+    "browserVersion":"107.0.5304.63",
+    "chrome":{
+        "chromedriverVersion":"107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942})",
+        "userDataDir":"C:\\Users\\admin\\AppData\\Local\\Temp\\scoped_dir33972_1039917077"
+    },
+    "goog:chromeOptions":{
+        "debuggerAddress":"localhost:51082"
+    },
+    "networkConnectionEnabled":false,
+    "pageLoadStrategy":"normal",
+    "platformName":"windows",
+    "proxy":{},
+    "setWindowRect":true,
+    "strictFileInteractability":false,
+    "timeouts":{
+        "implicit":0,
+        "pageLoad":300000,
+        "script":30000
+    },
+    "unhandledPromptBehavior":"dismiss and notify",
+    "webauthn:extension:credBlob":true,
+    "webauthn:extension:largeBlob":true,
+    "webauthn:virtualAuthenticators":true
+}
